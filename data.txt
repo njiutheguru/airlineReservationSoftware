@@ -1,0 +1,12 @@
+__________________________ AIRLINE TICKET____________________
+___________________________AIRLINE TICKET____________________
+______________________________________________________________
+Customer ID: 778
+Customer Name: mark
+Customer Gender: male
+Customer phone No: 99809
+
+ Flight Description
+
+Destination:		ISRAEL
+Flight cost: 		23000
